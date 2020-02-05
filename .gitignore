@@ -1,0 +1,6 @@
+__schemas__
+schema
+*/**/.terraform
+vars.tfvars.json
+env.stage
+env.prod
